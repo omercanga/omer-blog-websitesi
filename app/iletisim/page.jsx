@@ -9,7 +9,6 @@ export default function ContactPage() {
         <h2>İletişim Bilgileri</h2>
         <ul>
           <li>E-posta: omercanga@hotmail.com</li>
-          <li>Telefon: </li>
           <li>LinkedIn: linkedin.com/in/omercanga</li>
         </ul>
       </section>

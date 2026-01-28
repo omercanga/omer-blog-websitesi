@@ -76,20 +76,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="card">
-        <div className="section-title">
-          <h2>İletişim ve Linkler</h2>
-          <span className="badge">Hızlı Erişim</span>
-        </div>
-        <div className="grid grid-2 link-list">
-          <a href="mailto:omercanga@hotmail.com">omercanga@hotmail.com</a>
-          <a href="tel:+905070880934">+90 507 088 09 34</a>
-          <a href="https://www.linkedin.com/in/omercanga">LinkedIn</a>
-          <a href="https://www.omercanga.blogspot.com">Blogspot</a>
-          <a href="https://www.umutdiyari.wordpress.com">Umut Diyarı</a>
-          <a href="https://www.omercanga.wordpress.com">WordPress</a>
-        </div>
-      </section>
     </div>
   );
 }
